@@ -1,0 +1,9 @@
+#background-image {
+    background: linear-gradient(180deg, #111 0%, rgba(17, 17, 17, 0.00) 100%);
+    background-image: url(images/banner.png);
+    max-width: 1200px;
+    min-height: 550px;
+    background-repeat: no-repeat;  
+    margin: 0 auto;
+    
+}
